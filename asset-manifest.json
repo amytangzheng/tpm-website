@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tpm-website/static/css/main.38c39e81.css",
+    "main.js": "/tpm-website/static/js/main.9e182ec5.js",
+    "static/js/453.ca6e586a.chunk.js": "/tpm-website/static/js/453.ca6e586a.chunk.js",
+    "index.html": "/tpm-website/index.html",
+    "main.38c39e81.css.map": "/tpm-website/static/css/main.38c39e81.css.map",
+    "main.9e182ec5.js.map": "/tpm-website/static/js/main.9e182ec5.js.map",
+    "453.ca6e586a.chunk.js.map": "/tpm-website/static/js/453.ca6e586a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c39e81.css",
+    "static/js/main.9e182ec5.js"
+  ]
+}
